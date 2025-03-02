@@ -38,6 +38,10 @@ Qalbun AI is offered in multiple deployment variants to meet diverse performance
 - **Continuous Learning:**  
   Evolves over time by adapting to new research, user feedback, and emerging trends in both AI and ethical frameworks.
 
+## Open Source
+
+The models is free & open source, you can download it at Hugging Face : [Here](https://huggingface.co/Qalbun-AI/QalbunLLM-V1)
+
 ## Author
 
 Qalbun AI is developed and maintained by the Polyvor Labs Teams. Their multidisciplinary expertise in artificial intelligence and Islamic studies drives the innovation behind this project.
