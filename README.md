@@ -42,12 +42,16 @@ Qalbun AI is offered in multiple deployment variants to meet diverse performance
 
 The models is free & open source, you can download it at Hugging Face : [Here](https://huggingface.co/Qalbun-AI/QalbunLLM-V1)
 
+## Release
+
+You can now run Qalbun AI offline on your phone! [Download here](https://github.com/Qalbun-App/Qalbun-AI/releases)
+
 ## Author
 
 Qalbun AI is developed and maintained by the Polyvor Labs Teams. Their multidisciplinary expertise in artificial intelligence and Islamic studies drives the innovation behind this project.
 
 ## The Development Team (Polyvor Labs)
 
-Zahir Hadi Athallah<br>
-Thiflul Ma'ani Minal Mu'min<br>
-Ruby Hardianto
+[Zahir Hadi Athallah](https://www.linkedin.com/in/zahir-hadi-athallah)<br>
+[Thiflul Ma'ani Minal Mu'min](https://www.instagram.com/allenth_yzx.kt)<br>
+[Ruby Hardianto](https://www.instagram.com/ubbyyy16)
